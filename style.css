@@ -256,3 +256,123 @@ h4{
         width: 10%;
     }
 }
+.last{
+    margin-top: 4%;
+    margin-left: 5%;
+    display: flex;
+    justify-content: space-between;
+
+}
+.left{
+    margin-left: 10%;
+    margin-right: 5%;
+    font-family: "quicksand";
+}
+
+.left ul{
+    display: block;
+    font-size: 1.2vw;
+}
+.left li{
+    list-style-type: disc;
+}
+.mid{
+    font-family: "quicksand";
+    margin-left: 15%;
+    margin-right: 10%;
+}
+h6{
+    font-size: 1.2vw;
+    font-weight: bold;
+    
+}
+.mid ul{
+    display: block;
+    font-size: 1.3vw;
+   
+}
+.mid li{
+    list-style-type: disc;
+}
+.end{
+    margin-right: 7%;
+}
+.logo{
+    width: 7%;
+    margin-top: 1%;
+    /* margin-left: 3%; */
+}
+.subscribe{
+    background-color: purple;
+    border: transparent;
+    padding: 6%;
+}
+.email{
+    padding-left: 5%;
+}
+.sub{
+    font-size: 1.5vw;
+}
+.learn{
+    font-weight: bold;
+}
+h5{
+    font-size: 1.5vw;
+    margin-top: 3%;
+    margin-left: 3%;
+}
+/* form styling */
+/* .bd{
+    background-color: black;
+}
+.data{
+    background-color: white;
+    display: flex;
+    margin-top: 5%;
+    padding-right: 0%;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+.aka{
+    width: 50%;
+    height: auto;
+}
+form{
+    margin-left: 3%;
+    padding-right: 1%;
+    padding-top: 1%;
+    display: block;
+    margin-top:0%;
+    font-family: "quicksand";
+    color: black;
+    font-weight: bold;
+}
+input{
+    margin-bottom: 10%;
+    margin-top: 6%;
+    padding: 5%;
+    color: gray;
+}
+#button{
+    padding: 5%;
+    padding-left:10%;
+    padding-right:10%;
+    text-align: center;
+    font-size: 1vw;
+    margin-left: 10%;
+    margin-bottom: 3%;
+    color: white;
+    background-color: rgb(245, 137, 218);
+    border-color: transparent;
+}
+
+footer{
+    margin-top: 2.6%;
+    padding: 0.4%;
+    font-family: "quicksand";
+    font-size: 1vw;
+    margin-bottom: 0%;
+    /* background-color: white; */
+    color: white;
+    text-align: center;
+} */
