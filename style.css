@@ -321,6 +321,11 @@ h5{
     margin-top: 3%;
     margin-left: 3%;
 }
+footer{
+    background-color: black;
+    padding: 1%;
+    color: white;
+}
 /* form styling */
 /* .bd{
     background-color: black;
