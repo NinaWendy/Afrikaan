@@ -419,3 +419,20 @@ footer{
     color: white;
     text-align: center;
 }
+@media only screen and (max-width:500px){
+    .data{
+        display: block;
+    }
+    .aka{
+        width: 100%;
+    }
+    form{
+        font-size: 3vw;
+    }
+    input{
+        font-size: 2.5vw;
+    }
+    #button{
+        font-size: 3vw;
+    }
+}
