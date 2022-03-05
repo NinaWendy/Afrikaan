@@ -214,3 +214,25 @@ h3{
         margin-left: 25%;
     }
 }
+.art2{
+    height: auto;
+    width: 50vw;
+    margin-left: 4%;
+}
+.quote2{
+    margin-left: 5%;
+}
+.aa{
+    width: 5vw;
+    margin-top: -7%;
+}
+.aa2{
+    width: 5vw;
+    margin-top: 14%;
+}
+h4{
+    font-weight: bold;
+    color: black;
+    font-family: "playfair display";
+    text-decoration: underline;
+}
