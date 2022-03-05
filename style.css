@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Pacifico&family=Playfair+Display&family=Quicksand:wght@300&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Pacifico&family=Playfair+Display&family=Quicksand:wght@300&family=Roboto:wght@100&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+body{
+    width: 100%;
+    height: auto;
+}
+.navbar{
+    font-family: "quicksand";
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    margin-bottom: -0.5%;
+    padding-bottom: 0.7%;
+    /* position: fixed; */
+    /* overflow: hidden; */
+    /* top: 0; */
+    width: 100%;
+}
+.aaa{
+    display: flex;
+}
+.africa{
+    width: 16%;
+    margin-left: 4%;
+    margin-top: 1%;
+}
+h2{
+    color: white;
+    font-family: "playfair display";
+    font-size: 2vw;
+    font-weight: bold;
+    margin: 0.5%;
+    margin-left: 0%;
+    
+}
+ul{
+    display: flex;
+    margin-top: 1%;
+    margin-right: 25%;
+    font-size: 1.5vw;
+}
+ li{
+    list-style-type: none;
+    padding-right:25%;
+}
+.navbar a{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    padding-bottom: 2%;
+}
+.navbar a:hover{
+   color: purple;
+   text-decoration: line-through;
+}
+a:active{
+    text-decoration: underline;
+}
