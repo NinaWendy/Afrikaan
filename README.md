@@ -1,7 +1,7 @@
 # Culture_Shock
 
 #### By Wendy Nina
-<!-- <img src="./images/Akan.png"> -->
+<img src="./images/Akan.png">
 
 ## Table of Content
 
